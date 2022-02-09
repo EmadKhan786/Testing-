@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en">
+
+<head>
+	<title></title>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<!--[if mso]><xml><o:OfficeDocumentSettings><o:PixelsPerInch>96</o:PixelsPerInch><o:AllowPNG/></o:OfficeDocumentSettings></xml><![endif]-->
+	<!--[if !mso]><!-->
+	<link href="https://fonts.googleapis.com/css?family=Permanent+Marker" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Oxygen" rel="stylesheet" type="text/css">
+	<!--<![endif]-->
+	<style>
+		* {
+			box-sizing: border-box;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+		}
+
+		a[x-apple-data-detectors] {
+			color: inherit !important;
+			text-decoration: inherit !important;
+		}
+
+		#MessageViewBody a {
+			color: inherit;
+			text-decoration: none;
+		}
+
+		p {
+			line-height: inherit
+		}
+
+		@media (max-width:660px) {
+			.row-content {
+				width: 100% !important;
+			}
+
+			.stack .column {
+				width: 100%;
+				display: block;
+			}
+		}
+	</style>
+</head>
+
+<body style="margin: 0; background-color: #031a1b; padding: 0; -webkit-text-size-adjust: none; text-size-adjust: none;">
+	<table class="nl-container" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #031a1b;">
+		<tbody>
+			<tr>
+				<td>
+					<table class="row row-1" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #031a1b; background-image: url('https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/Header_BG_1.png'); background-position: top center; background-repeat: no-repeat;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="image_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="padding-left:20px;padding-right:20px;width:100%;padding-top:35px;">
+																<div align="center" style="line-height:10px"><a href="https://www.example.com" target="_blank" style="outline:none" tabindex="-1"><img src="https://img1.wsimg.com/isteam/ip/2176fe07-dda5-499f-a945-cfbdaf24390d/Perth%20loan%20logo.png/:/rs=h:67,cg:true,m/qt=q:100/ll" style="display: block; height: auto; border: 0; width: 160px; max-width: 100%;" width="160" alt="Your Logo Placeholder" title="Your Logo Placeholder"></a></div>
+															</td>
+														</tr>
+													</table>
+													<table class="image_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="width:100%;padding-right:0px;padding-left:0px;padding-top:30px;">
+																<div align="center" style="line-height:10px"><img src="https://www.downloadclipart.net/large/mortgage-transparent-png.png" style="display: block; height: auto; border: 0; width: 448px; max-width: 100%;" width="448" alt="2021 year in review " title="2021 year in review "></div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-2" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #063032;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 0px; padding-bottom: 0px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="divider_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:10px;padding-right:10px;padding-top:20px;">
+																<div align="center">
+																	<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="30%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																		<tr>
+																			<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 2px solid #11D3D5;"><span>&#8202;</span></td>
+																		</tr>
+																	</table>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:20px;padding-left:20px;padding-right:20px;padding-top:30px;">
+																<div style="font-family: 'Trebuchet MS', Tahoma, sans-serif">
+																	<div style="font-size: 12px; font-family: 'Oxygen', 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; mso-line-height-alt: 18px; color: #393d47; line-height: 1.5;">
+																		<p style="margin: 0; font-size: 16px; text-align: center; mso-line-height-alt: 27px;"><span style="color:#ffffff;font-size:18px;"><strong>Perth Smart Loan has become one of Australia's most regarded mortgage brokerage businesses, having assisted over 320,000 clients. We have mortgage brokers in all of Australia's major cities, including Sydney, Melbourne, Brisbane, Perth, Adelaide, Hobart, and Darwin, as well as remote communities.</strong></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-3" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #063032;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="icons_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="color:#000000;font-family:inherit;font-size:14px;text-align:center;">
+																<table cellpadding="0" cellspacing="0" role="presentation" align="center" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td style="text-align:center;padding-top:10px;padding-bottom:10px;padding-left:10px;padding-right:10px;"><img class="icon" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/incomes.png" alt height="64" width="64" align="center" style="display: block; height: auto; border: 0;"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td>
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 34px; text-align: center;"><span style="color:#5d1fe3;"><span style="caret-color:#ffffff;">Our top Feature&nbsp;</span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-4" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #063032;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="image_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="width:100%;padding-right:0px;padding-left:0px;">
+																<div align="center" style="line-height:10px"><img src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/Piggy.gif" style="display: block; height: auto; border: 0; width: 128px; max-width: 100%;" width="128" alt="Animated pig bank" title="Animated pig bank"></div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="font-size:17px;"><span style="color:#80efb9;"><span style="caret-color:#ffffff;"><strong>LOAN AMOUNT</strong></span></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:40px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="color:#5d1fe3;"><span style="caret-color:#ffffff;font-size:30px;"><strong><span style="color:#ffffff;">$</span> 350,000/- <span style="color:#80efb9;">↑</span></strong></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-5" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #063032;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="33.333333333333336%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="icons_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="color:#000000;font-family:inherit;font-size:14px;text-align:center;padding-top:5px;">
+																<table cellpadding="0" cellspacing="0" role="presentation" align="center" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td style="text-align:center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;"><img class="icon" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/expenses_icon.png" alt height="64" width="64" align="center" style="display: block; height: auto; border: 0;"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="color:#80efb9;"><span style="caret-color:#ffffff;"><strong>INTEREST RATE</strong></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:45px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="color:#5d1fe3;"><span style="caret-color:#ffffff;font-size:30px;"><strong><span style="color:#5d1fe3;">1.85 % </span><span style="color:#80efb9;">↑</span></strong></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td class="column" width="33.333333333333336%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="icons_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="color:#000000;font-family:inherit;font-size:14px;text-align:center;padding-top:5px;">
+																<table cellpadding="0" cellspacing="0" role="presentation" align="center" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td style="text-align:center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;"><img class="icon" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/shop_icon.png" alt height="64" width="64" align="center" style="display: block; height: auto; border: 0;"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="font-size:13px;"><span style="color:#80efb9;"><span style="caret-color:#ffffff;"><strong>MONTHLY REPAYMENT</strong></span></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:45px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="color:#5d1fe3;"><span style="caret-color:#ffffff;font-size:30px;"><strong><span style="color:#ffffff;">$</span> 1257.<sup>23</sup>&nbsp;<span style="color:#80efb9;">↑</span></strong></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+												<td class="column" width="33.333333333333336%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="icons_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="color:#000000;font-family:inherit;font-size:14px;text-align:center;padding-top:5px;">
+																<table cellpadding="0" cellspacing="0" role="presentation" align="center" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td style="text-align:center;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;"><img class="icon" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/rent_icon.png" alt height="64" width="64" align="center" style="display: block; height: auto; border: 0;"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="font-size:13px;"><span style="color:#80efb9;"><span style="caret-color:#ffffff;"><strong>COMPARISON RATE</strong></span></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:45px;padding-left:5px;padding-right:5px;padding-top:15px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><span style="color:#5d1fe3;"><span style="caret-color:#ffffff;font-size:30px;"><strong><span style="color:#ffffff;">$</span> 2.21 %&nbsp;<span style="color:#80efb9;">↑</span></strong></span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-6" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="button_block" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td>
+																<div align="center">
+																	<!--[if mso]><v:roundrect xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" href="https://perthsmartloan.com.au/apply" style="height:44px;width:146px;v-text-anchor:middle;" arcsize="10%" strokeweight="0.75pt" strokecolor="#5254FC" fill="false"><w:anchorlock/><v:textbox inset="0px,0px,0px,0px"><center style="color:#ffffff; font-family:Tahoma, sans-serif; font-size:16px"><![endif]--><a href="https://perthsmartloan.com.au/apply" target="_blank" style="text-decoration:none;display:inline-block;color:#ffffff;background-color:transparent;border-radius:4px;width:auto;border-top:1px solid #5254FC;border-right:1px solid #5254FC;border-bottom:1px solid #5254FC;border-left:1px solid #5254FC;padding-top:5px;padding-bottom:5px;font-family:Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;text-align:center;mso-border-alt:none;word-break:keep-all;"><span style="padding-left:20px;padding-right:20px;font-size:16px;display:inline-block;letter-spacing:normal;"><span style="font-size: 16px; line-height: 2; word-break: break-word; mso-line-height-alt: 32px;">APPLY HERE</span></span></a>
+																	<!--[if mso]></center></v:textbox></v:roundrect><![endif]-->
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-7" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #031a1b; background-position: center top;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="divider_block" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td>
+																<div align="center">
+																	<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="30%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																		<tr>
+																			<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 2px solid #11D3D5;"><span>&#8202;</span></td>
+																		</tr>
+																	</table>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-8" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="icons_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="color:#000000;font-family:inherit;font-size:14px;text-align:center;">
+																<table cellpadding="0" cellspacing="0" role="presentation" align="center" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																	<tr>
+																		<td style="text-align:center;padding-top:10px;padding-bottom:10px;padding-left:10px;padding-right:10px;"><img class="icon" src="https://d1oco4z2z1fhwp.cloudfront.net/templates/default/5261/investment_icon_1.png" alt height="64" width="64" align="center" style="display: block; height: auto; border: 0;"></td>
+																	</tr>
+																</table>
+															</td>
+														</tr>
+													</table>
+													<table class="text_block" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td>
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #393d47; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 34px; text-align: center;"><span style="color:#5d1fe3;"><span style="font-size:30px;caret-color:#ffffff;">Contact us</span></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-9" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #ffffff;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; border-bottom: 0px dotted transparent; border-left: 0px dotted transparent; border-right: 0px dotted transparent; border-top: 0px dotted transparent; padding-top: 5px; padding-bottom: 5px;">
+													<table class="divider_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td>
+																<div align="center">
+																	<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+																		<tr>
+																			<td class="divider_inner" style="font-size: 1px; line-height: 1px; border-top: 1px solid #BBBBBB;"><span>&#8202;</span></td>
+																		</tr>
+																	</table>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-10" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #5355fd;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="image_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt;">
+														<tr>
+															<td style="padding-bottom:10px;padding-left:20px;padding-right:20px;padding-top:20px;width:100%;">
+																<div align="center" style="line-height:10px"><a href="https://www.example.com" target="_blank" style="outline:none" tabindex="-1"><img src="https://img1.wsimg.com/isteam/ip/2176fe07-dda5-499f-a945-cfbdaf24390d/Perth%20loan%20logo.png/:/rs=h:67,cg:true,m/qt=q:100/ll" style="display: block; height: auto; border: 0; width: 192px; max-width: 100%;" width="192" alt="Your Logo Placeholder" title="Your Logo Placeholder"></a></div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-11" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #5355fd;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-left:20px;padding-right:20px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #ffffff; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; text-align: center; font-size: 16px;"><span style="font-size:16px;"><strong>19 Mumford Place, Balcatta Western Australia 6021, Australia.</strong></span></p>
+																		<p style="margin: 0; text-align: center; font-size: 16px;"><span style="font-size:16px;"><strong>T:&nbsp;<a rel role="link" aria-haspopup="false" href="tel:0865553669" style="color: #ffffff;">08 6555 3669</a>&nbsp;| E:&nbsp;<a rel role="link" aria-haspopup="false" href="mailto:info@perthsmartloan.com" style="color: #ffffff;">info@perthsmartloan.com.au</a>&nbsp;| W:&nbsp;<a href="http://www.perthsmartloan.com.au/" target="_blank" rel="noopener" style="color: #ffffff;">www.perthsmartloan.com.au</a></strong></span></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+					<table class="row row-12" align="center" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; background-color: #5355fd;">
+						<tbody>
+							<tr>
+								<td>
+									<table class="row-content stack" align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; color: #000000; width: 640px;" width="640">
+										<tbody>
+											<tr>
+												<td class="column" width="100%" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; font-weight: 400; text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 5px; border-top: 0px; border-right: 0px; border-bottom: 0px; border-left: 0px;">
+													<table class="text_block" width="100%" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
+														<tr>
+															<td style="padding-bottom:20px;padding-left:10px;padding-right:10px;">
+																<div style="font-family: sans-serif">
+																	<div style="font-size: 12px; mso-line-height-alt: 14.399999999999999px; color: #ffffff; line-height: 1.2; font-family: Montserrat, Trebuchet MS, Lucida Grande, Lucida Sans Unicode, Lucida Sans, Tahoma, sans-serif;">
+																		<p style="margin: 0; font-size: 14px; text-align: center;"><strong>Copyright © 2021 Perth Smart Loan - All Rights Reserved.</strong></p>
+																	</div>
+																</div>
+															</td>
+														</tr>
+													</table>
+												</td>
+											</tr>
+										</tbody>
+									</table>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</td>
+			</tr>
+		</tbody>
+	</table><!-- End -->
+</body>
+
+</html>
